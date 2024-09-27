@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+
+[![Top Langs](https://github-language-stats-six.vercel.app/api/top-langs/?username=blaqat)](https://github.com/blaqat/github-readme-stats)
+
 </p>
