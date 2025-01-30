@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 <picture>
-  <source
+<!--   <source
     srcset="https://github-language-stats-six.vercel.app/api/top-langs/?username=blaqat&theme=catppuccin_mocha"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-language-stats-six.vercel.app/api/top-langs/?username=blaqat&theme=catppuccin_latte"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  /> -->
   <img  />
 </picture>
 
