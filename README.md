@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blaqat&theme=catppuccin_mocha"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blaqat"
     media="(prefers-color-scheme: dark)"
   />
   <source
